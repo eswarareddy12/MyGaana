@@ -1,5 +1,6 @@
-# MyGaana
+MyGaana Music Platform - Database Design & Analytics
 MyGaana is a simulated music streaming platform designed to analyze user behavior, track plays, subscription trends, and revenue using SQL. The project focuses on building a relational database to handle music streaming data and provide actionable insights.
+
 Key Features:
 Database Schema: Includes tables for users, artists, albums, tracks, play history, playlists, and payments.
 Advanced SQL Queries: Implements queries using key SQL functions like JOIN, GROUP BY, COUNT(), SUM(), DISTINCT, and LIMIT to derive meaningful insights.
